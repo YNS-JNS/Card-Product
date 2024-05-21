@@ -6,6 +6,8 @@
   Application demonstration
 </h2>
 
+![chrome-capture-2024-4-21](https://github.com/YNS-JNS/Card-Product/assets/118312953/a1038d46-418d-4144-b90f-d52a10b1b53e)
+
 ## Directory Layout
 
 No setup or intricate folder hierarchies, only the essential files for building your application:
