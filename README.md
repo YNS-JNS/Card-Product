@@ -1,11 +1,10 @@
 <h1 align="center">
-  Vite Template React with Tailwind Css
+  Card Product using Vite Template React with TailwindCss
 </h1>
 
-<p align="center">
-    A <a href="https://vitejs.dev">Vite</a> + <a href="https://react.dev">React</a> 
-    + <a href="https://tailwindcss.com">Tailwind Css</a> starter template.
-</p>
+<h2 align="center">
+  Application demonstration
+</h2>
 
 ## Directory Layout
 
@@ -16,15 +15,17 @@ vite-template-react
 ├── node_modules
 ├── public
 │   ├── favicon.svg
-│   └── robots.txt
+│   ├── robots.txt
+│   ├── smart-watch2.svg
+│   └── smart-watch2.svg
 └── src
-    ├── App.css
+    ├── components
+    |   ├── ProductCard.jsx
+    |   └── ProductList.jsx
     ├── App.jsx
-    ├── App.test.jsx
     ├── index.css
     ├── index.jsx
     └── logo.svg
-    └── setupTests.js
 ├── .gitignore
 ├── index.html
 ├── package.json
@@ -39,8 +40,8 @@ vite-template-react
 To obtain a local copy of the code, clone the repository using git:
 
 ```
-git clone https://github.com/YNS-JNS/vite-template-react-tailwind
-cd vite-template-react-tailwind
+git clone https://github.com/YNS-JNS/Card-Product.git
+cd Card-Product
 ```
 
 Make it your own:
